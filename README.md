@@ -1,162 +1,131 @@
-# 👋 Ahmed Hdhili
+<div align="center">
 
-## 🚀 Full Stack Developer | Trading Bots Developer
+# 👋 Hi, I'm Ahmed Hdhili
 
-Passionate Full Stack Developer from Tunisia specializing in modern web applications, automation systems, APIs, and trading bot development.
+### 🚀 Full Stack Developer | Freelancer | Tech Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Web+Application+Developer;Freelancer;Building+Modern+Digital+Solutions;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 💫 About Me
 
-📧 Email: ahdhili832@gmail.com
+💻 Full Stack Web Developer
 
-📱 WhatsApp: +21620021903
+⚡ Building modern and responsive websites
 
-🌍 Portfolio:
-https://ahmedhdhili832-dotcom.github.io/portfolio/
+🤖 Interested in Automation & AI Tools
 
-🐙 GitHub:
-https://github.com/ahmedhdhili832-dotcom
+🌍 Based in Jendouba, Tunisia
 
-💼 Fiverr:
-https://pro.fiverr.com/pe/8zwr8zz
+🎯 Available for Freelance Projects
 
-📘 Facebook:
-https://www.facebook.com/share/1DxUvkMJxn/
-
-📍 Jendouba, Tunisia
+📚 Always learning and improving
 
 ---
 
 ## 🛠 Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Git & GitHub
-- REST APIs
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode" />
+
+</div>
 
 ---
 
-## 🔥 Services
+## 📊 GitHub Statistics
 
-✅ Website Development
+<div align="center">
 
-✅ Web Applications
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedhdhili832-dotcom&show_icons=true&theme=tokyonight"/>
 
-✅ Trading Bots
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhdhili832-dotcom&theme=tokyonight"/>
 
-✅ Dashboards & Admin Panels
-
-✅ API Integration
-
-✅ Automation Systems
-
----
-## 📈 Current Goals
-
-- Build Professional SaaS Projects
-- Develop Trading Automation Systems
-- Grow Freelancing Career
-- Contribute More on GitHub
-## 📊 GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedhdhili832-dotcom&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhdhili832-dotcom&layout=compact&theme=tokyonight)
-## 📊 GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedhdhili832-dotcom&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhdhili832-dotcom&layout=compact&theme=tokyonight)
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 📈 Most Used Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<div align="center">
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhdhili832-dotcom&layout=compact&theme=tokyonight"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
-## 🌐 Professional Links
+## 📉 Activity Graph
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://ahmedhdhili832-dotcom.github.io/portfolio/)
+<div align="center">
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-green?style=for-the-badge)](https://pro.fiverr.com/pe/8zwr8zz)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedhdhili832-dotcom&theme=tokyo-night"/>
 
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge)](https://www.facebook.com/share/1DxUvkMJxn/)
-
----
-
-## 🎯 2026 Goals
-
-- Build SaaS Applications
-- Create Trading Bots
-- Grow Freelance Business
-- Reach 100+ GitHub Contributions
-- Work With International Clients
-
-⭐ Always learning and building new projects.
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=ahmedhdhili832-dotcom&color=blue&style=for-the-badge)
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ahmedhdhili832-dotcom&theme=tokyonight&no-frame=true&row=1)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedhdhili832-dotcom&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🐍 Contribution Snake
 
-### 🔹 Repair Center Management System
-Complete system for phone and computer repair shops.
+<div align="center">
 
-### 🔹 Trading Bot Dashboard
-Automated trading dashboard with analytics and reporting.
+<img src="https://raw.githubusercontent.com/ahmedhdhili832-dotcom/ahmedhdhili832-dotcom/output/github-snake.svg"/>
 
-### 🔹 Portfolio Website
-https://ahmedhdhili832-dotcom.github.io/portfolio/
-
-### 🔹 Business Automation Tools
-Custom automation solutions for businesses.
+</div>
 
 ---
 
-## 📫 Contact Me
+## 🌐 Connect With Me
 
-📧 ahdhili832@gmail.com
+<div align="center">
 
-📱 +21620021903
+<a href="mailto:ahdhili832@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-📍 Jendouba, Tunisia
+<a href="https://wa.me/21620021903">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ahmedhdhili832-dotcom">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 Current Goals
+
+✅ Build professional web applications
+
+✅ Grow my GitHub portfolio
+
+✅ Work with international clients
+
+✅ Improve Full Stack Development skills
+
+✅ Launch successful freelance services
+
+---
+
+<div align="center">
+
+### 💡 "Code is not just logic... it's creativity in motion."
+
+⭐ Thanks for visiting my profile ⭐
+
+</div>
