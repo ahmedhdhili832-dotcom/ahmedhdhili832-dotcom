@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Ahmed Hdhili
 
-<!--
-**ahmedhdhili832-dotcom/ahmedhdhili832-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Developer | Trading Bots Developer
 
-Here are some ideas to get you started:
+Passionate Full Stack Developer from Tunisia specializing in modern web applications, automation systems, APIs, and trading bot development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect With Me
+
+📧 Email: ahdhili832@gmail.com
+
+📱 WhatsApp: +21620021903
+
+🌍 Portfolio:
+https://ahmedhdhili832-dotcom.github.io/portfolio/
+
+🐙 GitHub:
+https://github.com/ahmedhdhili832-dotcom
+
+💼 Fiverr:
+https://pro.fiverr.com/pe/8zwr8zz
+
+📘 Facebook:
+https://www.facebook.com/share/1DxUvkMJxn/
+
+📍 Jendouba, Tunisia
+
+---
+
+## 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+- REST APIs
+
+---
+
+## 🔥 Services
+
+✅ Website Development
+
+✅ Web Applications
+
+✅ Trading Bots
+
+✅ Dashboards & Admin Panels
+
+✅ API Integration
+
+✅ Automation Systems
+
+---
+
+## 📈 Current Goals
+
+- Build Professional SaaS Projects
+- Develop Trading Automation Systems
+- Grow Freelancing Career
+- Contribute More on GitHub
