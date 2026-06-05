@@ -1,28 +1,35 @@
 <div align="center">
 
-# 👋 Hi, I'm Ahmed Hdhili
+# 👨‍💻 Ahmed Hdhili
 
-### 🚀 Full Stack Developer | Freelancer | Tech Enthusiast
+### 🚀 Full Stack Developer | Freelancer | Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Web+Application+Developer;Freelancer;Building+Modern+Digital+Solutions;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Ahmed+Hdhili;Full+Stack+Developer;Freelancer;Building+Modern+Web+Applications" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedhdhili832-dotcom&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🌟 About Me
+
+```yaml
+Name: Ahmed Hdhili
+Location: Jendouba, Tunisia
+Role: Full Stack Developer
+Email: ahdhili832@gmail.com
+WhatsApp: +21620021903
+GitHub: ahmedhdhili832-dotcom
+```
 
 💻 Full Stack Web Developer
 
-⚡ Building modern and responsive websites
+🌐 Building modern websites and web applications
 
-🤖 Interested in Automation & AI Tools
+⚡ Passionate about coding and technology
 
-🌍 Based in Jendouba, Tunisia
-
-🎯 Available for Freelance Projects
-
-📚 Always learning and improving
+🚀 Available for freelance projects
 
 ---
 
@@ -30,51 +37,19 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,nodejs,git,github,vscode" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Services
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedhdhili832-dotcom&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhdhili832-dotcom&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📈 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhdhili832-dotcom&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📉 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedhdhili832-dotcom&theme=tokyo-night"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedhdhili832-dotcom&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
+- Portfolio Websites
+- Business Websites
+- Web Applications
+- Responsive Design
+- Website Maintenance
 
 ---
 
@@ -82,7 +57,17 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ahmedhdhili832-dotcom/ahmedhdhili832-dotcom/output/github-snake.svg"/>
+<img src="https://raw.githubusercontent.com/ahmedhdhili832-dotcom/ahmedhdhili832-dotcom/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedhdhili832-dotcom&theme=tokyo-night" />
 
 </div>
 
@@ -93,7 +78,7 @@
 <div align="center">
 
 <a href="mailto:ahdhili832@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/21620021903">
@@ -108,23 +93,9 @@
 
 ---
 
-## 🚀 Current Goals
-
-✅ Build professional web applications
-
-✅ Grow my GitHub portfolio
-
-✅ Work with international clients
-
-✅ Improve Full Stack Development skills
-
-✅ Launch successful freelance services
-
----
-
 <div align="center">
 
-### 💡 "Code is not just logic... it's creativity in motion."
+### 💡 Code. Create. Innovate.
 
 ⭐ Thanks for visiting my profile ⭐
 
