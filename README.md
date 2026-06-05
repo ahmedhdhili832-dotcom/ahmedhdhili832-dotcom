@@ -1,101 +1,102 @@
-<div align="center">
+<h1 align="center">⚡ Ahmed Hdhili | Full Stack Developer ⚡</h1>
 
-# 👨‍💻 Ahmed Hdhili
-
-### 🚀 Full Stack Developer | Freelancer | Web Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Ahmed+Hdhili;Full+Stack+Developer;Freelancer;Building+Modern+Web+Applications" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedhdhili832-dotcom&color=blueviolet&style=for-the-badge)
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Smartphone+%26+PC+Repair+Specialist;Automation+%26+Bot+Developer;Freelancer+Ready+to+Build+Modern+Solutions" />
+</p>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 About Me
 
-```yaml
-Name: Ahmed Hdhili
-Location: Jendouba, Tunisia
-Role: Full Stack Developer
-Email: ahdhili832@gmail.com
-WhatsApp: +21620021903
-GitHub: ahmedhdhili832-dotcom
-```
-
-💻 Full Stack Web Developer
-
-🌐 Building modern websites and web applications
-
-⚡ Passionate about coding and technology
-
-🚀 Available for freelance projects
+- 👤 Name: Ahmed Hdhili  
+- 📍 Location: Tunisia 🇹🇳  
+- 💼 Role: Full Stack Developer  
+- 🔧 Services: Web Development | Repair | Automation  
+- 📧 Email: ahdhili832@gmail.com  
+- 📱 WhatsApp: +21620021903  
+- 🌐 GitHub: ahmedhdhili832-dotcom  
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedhdhili832-dotcom&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhdhili832-dotcom&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,nodejs,git,github,vscode" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhdhili832-dotcom&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/ahmedhdhili832-dotcom/ahmedhdhili832-dotcom/blob/output/snake-neon.svg" />
+</p>
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedhdhili832-dotcom&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,python,mysql,git,github,vscode"/>
+</p>
 
 ---
 
 ## 🚀 Services
 
-- Portfolio Websites
-- Business Websites
-- Web Applications
-- Responsive Design
-- Website Maintenance
+- 🌐 Websites (Portfolio / Business / Landing Pages)
+- 🤖 Automation Bots
+- 📱 Smartphone & PC Repair
+- ⚙️ Custom Scripts & Tools
+- 💼 Freelance Projects
 
 ---
 
-### 🐍 Contribution Snake Animation
+## 🌍 Languages
 
-![snake animation](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/output/snake-neon.svg)
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/output/snake.gif)
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedhdhili832-dotcom&theme=tokyo-night" />
-
-</div>
+- 🇬🇧 English  
+- 🇫🇷 Français  
+- 🇹🇳 العربية  
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Contact
 
-<div align="center">
+<p align="center">
+  <a href="mailto:ahdhili832@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
 
-<a href="mailto:ahdhili832@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://wa.me/21620021903">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp"/>
+  </a>
 
-<a href="https://wa.me/21620021903">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ahmedhdhili832-dotcom">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+  <a href="https://github.com/ahmedhdhili832-dotcom">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## 💡 Quote
 
-### 💡 Code. Create. Innovate.
+> "Code is creativity turned into reality."
 
-⭐ Thanks for visiting my profile ⭐
+---
 
-</div>
+<p align="center">
+⚡ Built with passion by Ahmed Hdhili ⚡
+</p>
