@@ -53,12 +53,11 @@ GitHub: ahmedhdhili832-dotcom
 
 ---
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake Animation
 
-<div align="center">
+![snake animation](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/output/snake-neon.svg)
 
-<img src="https://raw.githubusercontent.com/ahmedhdhili832-dotcom/ahmedhdhili832-dotcom/output/github-contribution-grid-snake-dark.svg" />
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/output/snake.gif)
 </div>
 
 ---
