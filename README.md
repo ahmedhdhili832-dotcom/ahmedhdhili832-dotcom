@@ -51,7 +51,7 @@
 ## 🐍 Dynamic Contribution Grid Snake
 
 <p align="center">
-  <img src="https://github-usercontent.com/raw/ahmedhdhili832-dotcom/ahmedhdhili832-dotcom/output/github-contribution-grid-snake-dark.svg" alt="Dev Progress Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/ahmedhdhili832-dotcom/ahmedhdhili832-dotcom/output/github-contribution-grid-snake-dark.svg" alt="Dev Progress Snake" width="100%" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ## 🏆 Verified Engineering Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedhdhili832-dotcom&theme=tokyonight&column=6&margin-w=15&no-bg=true" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedhdhili832-dotcom&theme=tokyonight&row=1&column=6&margin-w=15" alt="GitHub Trophies" width="100%" />
 </p>
 
 ---
