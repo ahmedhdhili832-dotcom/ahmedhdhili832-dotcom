@@ -27,7 +27,7 @@
 # 🎬 Portfolio Preview
 
 <p align="center">
-  <img src="./demo.gif" alt="Portfolio Demo" width="100%">
+  <img src="https://raw.githubusercontent.com/ahmedhdhili832-dotcom/ahmedhdhili832-dotcom/main/demo.gif" alt="Portfolio Demo" width="100%">
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 Live DevOps & Contribution Dashboard
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedhdhili832-dotcom&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="49%" />
@@ -50,7 +50,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhdhili832-dotcom&layout=compact&theme=tokyonight&langs_count=6" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhdhili832-dotcom&layout=compact&theme=tokyonight&langs_count=8" width="49%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedhdhili832-dotcom/ahmedhdhili832-dotcom/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </p>
 
 ---
@@ -58,12 +66,12 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedhdhili832-dotcom&theme=tokyonight&row=1&column=6&margin-w=15" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedhdhili832-dotcom&theme=tokyonight&row=1&column=6&margin-w=15" />
 </p>
 
 ---
 
-## 🌐 Contact Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:ahdhili832@gmail.com">
@@ -82,6 +90,8 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1c2541,100:0b132b&height=120&section=footer" width="100%" />
