@@ -24,6 +24,8 @@
 
 ---
 
+<img src="Studiotoplaser(MP4).gif" width="800">
+
 ## 🛠️ Tech Stack
 
 <p align="center">
