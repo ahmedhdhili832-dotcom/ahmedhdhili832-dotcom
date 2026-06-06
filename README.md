@@ -1,13 +1,17 @@
-  <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,50:1c2541,100:111827&height=220&section=header&text=Ahmed%20Hdhili%20👋&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
-  <b>💻 Full Stack Developer | ⚡ Freelancer | 🚀 AI & Web Enthusiast</b>
+  <img src="https://readme-typing-svg.herokuapp.com?color=1c2541&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Freelancer+💼;AI+Enthusiast+🚀;Building+Modern+Web+Apps" />
 </p>
 
+---
+
+# 👀 Profile Views
+
 <p align="center">
-  <i>"Turning ideas into real digital experiences."</i>
+  <img src="https://komarev.com/ghpvc/?username=ahmedhdhili832-dotcom&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -23,10 +27,10 @@
 # 🧠 About Me
 
 - 🌍 Based in Tunisia  
-- 💻 Full Stack Web Developer  
-- ⚡ Passionate about Automation & AI  
-- 🚀 I build modern websites & apps  
-- 📚 Always learning new technologies
+- 💻 Full Stack Developer  
+- ⚡ Automation & AI Lover  
+- 🚀 Building modern web apps  
+- 📚 Always learning
 
 ---
 
@@ -38,15 +42,24 @@
 
 ---
 
+# 📌 Featured Projects (FIXED)
+
+<p align="center">
+  <a href="https://github.com/ahmedhdhili832-dotcom">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedhdhili832-dotcom&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+
+  <a href="https://github.com/ahmedhdhili832-dotcom?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhdhili832-dotcom&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+</p>
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedhdhili832-dotcom&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhdhili832-dotcom&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhdhili832-dotcom&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -59,10 +72,10 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🌗 Theme Badge
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedhdhili832-dotcom&theme=tokyonight&row=1&column=6" />
+  <img src="https://img.shields.io/badge/Theme-Dark%20%7C%20Light-1c2541?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -74,12 +87,12 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.facebook.com/share/1FYNm6DHQn/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-
   <a href="https://wa.me/21620021903">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/share/1FYNm6DHQn/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
   <a href="https://ahmedhdhili832-dotcom.github.io/portfolio/">
@@ -89,10 +102,10 @@
 
 ---
 
-# ⚡ Quote
+# ⚡ Final Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1c2541&size=22&center=true&vCenter=true&width=600&lines=Code+is+art;Build+something+awesome;Never+stop+learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0b132b&size=22&center=true&vCenter=true&width=700&lines=Code+is+art;Build+something+every+day;Never+stop+learning+🚀;Success+comes+with+consistency" />
 </p>
 
 ---
