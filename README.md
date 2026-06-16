@@ -70,6 +70,25 @@
   <img src="https://raw.githubusercontent.com/ahmedhdhili832-dotcom/ahmedhdhili832-dotcom/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+# Tic Tac Toe ❌⭕
+
+A simple 2-player Tic Tac Toe game.
+
+## Features
+- 2 players mode
+- Win/draw detection
+- Restart game button
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+
+## How to play
+Players take turns marking X and O. First to align 3 wins.
+
+## Live Demo
+(ضع الرابط هنا)
 ---
 
 # 🌗 Theme Badge
