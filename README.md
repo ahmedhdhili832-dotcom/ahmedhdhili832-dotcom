@@ -88,7 +88,7 @@ A simple 2-player Tic Tac Toe game.
 Players take turns marking X and O. First to align 3 wins.
 
 ## Live Demo
-(ضع الرابط هنا)
+
 ---
 
 # 🌗 Theme Badge
