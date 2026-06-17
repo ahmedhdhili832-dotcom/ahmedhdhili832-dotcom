@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1c2541&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Freelancer+💼;AI+Enthusiast+🚀;Building+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff00ff&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Freelancer+💼;AI+Enthusiast+🚀;Building+Modern+Web+Apps" />
 </p>
-
 ---
 
 # 👀 Profile Views
