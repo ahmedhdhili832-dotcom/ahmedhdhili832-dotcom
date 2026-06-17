@@ -21,15 +21,10 @@
   <img src="https://raw.githubusercontent.com/ahmedhdhili832-dotcom/ahmedhdhili832-dotcom/main/demo.gif" width="90%" />
 </p>
 
----
+# <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff00ff&size=22&center=true&vCenter=true&width=750&lines=Based+in+Tunisia+🌍;Full+Stack+Developer+💻;Automation+%26+AI+Lover+⚡;Building+modern+web+apps+🚀;Always+learning+📚" />
+</p>
 
-# 🧠 About Me
-
-- 🌍 Based in Tunisia  
-- 💻 Full Stack Developer  
-- ⚡ Automation & AI Lover  
-- 🚀 Building modern web apps  
-- 📚 Always learning
 
 ---
 
