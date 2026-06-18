@@ -10,7 +10,11 @@
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedhdhili832-dotcom&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedhdhili832-dotcom&label=VISITORS&color=00f5ff&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=16&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+🚀;Let's+build+something+amazing+together+🔥" />
 </p>
 
 ---
