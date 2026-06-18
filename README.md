@@ -48,10 +48,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="demo.gif" alt="Demo" width="100%">
-</p>
-
 ---
 ## 🏙️ 3D Contribution City
 
