@@ -25,13 +25,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=ff00ff&size=22&center=true&vCenter=true&width=750&lines=Based+in+Tunisia+🌍;Full+Stack+Developer+💻;Automation+%26+AI+Lover+⚡;Building+modern+web+apps+🚀;Always+learning+📚" />
 </p>
 
-
 ---
 
-# 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,py,mysql,git,github,vscode,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,py,mysql,git,github,vscode,linux,docker&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=18&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Apps;Clean+Code+%7C+Performance+%7C+Design" />
 </p>
 
 ---
