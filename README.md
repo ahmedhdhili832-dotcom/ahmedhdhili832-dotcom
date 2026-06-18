@@ -49,6 +49,11 @@
 </p>
 
 ---
+## 🏙️ 3D Contribution City
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedhdhili832-dotcom&theme=react-dark" />
+</p>
 
 # 📊 GitHub Stats
 
