@@ -125,15 +125,14 @@ https://ahmedhdhili832-dotcom.github.io/ahmedhdhili832-dotcom/
 </p>
 
 ---
-
-# ⚡ Final Quote
+⚡ Final Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0b132b&size=22&center=true&vCenter=true&width=700&lines=Code+is+art;Build+something+every+day;Never+stop+learning+🚀;Success+comes+with+consistency" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&size=24&center=true&vCenter=true&width=800&lines=Code+is+art+✨;Build+something+every+day+🚀;Never+stop+learning+💡;Success+comes+with+consistency+🔥" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1c2541,100:0b132b&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f5ff&height=140&section=footer&animation=fadeIn" width="100%" />
 </p>
